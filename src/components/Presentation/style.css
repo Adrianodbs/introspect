@@ -1,0 +1,15 @@
+.presentation{
+  background-color: rgb(12, 12, 12);
+  padding: 160px 120px;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 48px;
+}
+
+.presentation_title{
+  width: 70%;
+  letter-spacing: 3px;
+}
