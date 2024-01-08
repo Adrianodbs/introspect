@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <Header />
-      <Button title="Get Started" />
+      <Button title="Get Started" isWhite />
     </div>
   );
 }
