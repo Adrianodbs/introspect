@@ -1,0 +1,18 @@
+.about{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 120px;
+}
+
+.about h1{
+  color: var(--red-100);
+  margin-bottom: 36px;
+}
+
+.about p{
+  line-height: 32px;
+  margin-bottom: 36px;
+  color: #111;
+}
