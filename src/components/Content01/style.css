@@ -1,7 +1,20 @@
 .content01 {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
   flex-direction: column;
   padding: 100px;
+}
+
+.content01 h3{
+  text-transform: uppercase;
+  color: var(--red-100);
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.content01 p{
+  line-height: 32px;
+  color: #111;
+  margin-top: 20px;
 }
