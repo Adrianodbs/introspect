@@ -1,12 +1,13 @@
-import Header from './components/Header'
+import Header from "./components/Header";
+import Button from "./components/Button";
 
 function App() {
   return (
     <div>
       <Header />
-      <h1>Olá</h1>
+      <Button title="Get Started" />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
